@@ -26,7 +26,7 @@ public class Main {
         //CLAVE: DESARROLLO
 
         //System.out.println(config[3][1]);
-        //System.out.println(config[1][1]);
+        System.out.println(config[XTEST][CAMB]);
         System.out.println(config[XPROD][CPASS]); //...
 
 
